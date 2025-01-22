@@ -1,4 +1,5 @@
 ## Hi there 👋
+![](https://skillicons.dev/icons?i=typescript,ruby,python,rails,react,nextjs)
 
 <!--
 **kzhub/kzhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
