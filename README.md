@@ -1,5 +1,5 @@
 ## Tech Stack
-![](https://skillicons.dev/icons?i=typescript,ruby,python,php,rails,react,nextjs)
+![](https://skillicons.dev/icons?i=javascript,typescript,ruby,python,php,rails,react,nextjs)
 
 <!--
 **kzhub/kzhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
