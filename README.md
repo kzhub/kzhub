@@ -1,4 +1,4 @@
-## Hi there 👋
+## Tech Stack
 ![](https://skillicons.dev/icons?i=typescript,ruby,python,rails,react,nextjs)
 
 <!--
