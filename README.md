@@ -1,6 +1,7 @@
 ## Tech Stack
 ![](https://skillicons.dev/icons?i=typescript,ruby,python,php,rails,react,nextjs)
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=koikeazi)
 <!--
 **kzhub/kzhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
